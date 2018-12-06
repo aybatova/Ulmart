@@ -1,6 +1,6 @@
 package ru.itpark.domain;
 
-public class Product {
+public abstract class Product {
     private int id;
     private int price;
     private String name;
