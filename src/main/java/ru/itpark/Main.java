@@ -19,7 +19,7 @@ public class Main {
         service.add(new Product(77894, 15, "Samsung", "Смартфон"));
         service.add(new Product(15645, 45, "Пазлы", "Игрушки"));
         service.add(new Product(16487, 28, "Гвоздодер", "Инструменты"));
-        service.add(new Product(02165, 10, "Фонарик", "Все для дома"));
+        service.add(new Product(52165, 10, "Фонарик", "Все для дома"));
 
 
         List<String> names = new ArrayList<>();
